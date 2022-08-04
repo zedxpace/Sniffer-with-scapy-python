@@ -11,12 +11,10 @@ links for the documentation of the code :
     </thead>
     <tbody>
         <tr >
-            <td>1. <a href="https://www.codexpace.ml/2022/04/sniffer-with-no-filter.html">Sniffing packets</a></td>
+            <td>1. <a href="https://www.codexpace.ml/2022/04/sniffer-with-no-filter.html">Sniffing packets with no feature</a></td>
         </tr>
         <tr >
-            <td>2. <a href="https://www.codexpace.ml/2022/04/sniffer-for-email-credentials.html">Email Credential sniffers </a></td>
+            <td>2. <a href="https://www.codexpace.ml/2022/04/sniffer-for-email-credentials.html">Email Credential sniffers with filter</a></td>
         </tr>
-
-        <!-- and so on... -->
     </tbody>
 </table>
